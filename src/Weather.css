@@ -1,0 +1,22 @@
+ul{
+    list-style: none;
+}
+.search-form,
+.submit-form{
+    font-size: 16px;
+    padding: 10px 15px ;
+    border-radius: 10px;
+    border: none;
+   
+    
+}
+.search-form{
+    margin-right: 5px;
+    
+    background: #f8f8f8;
+    
+}
+.submit-form{
+    background: #3baea0;
+
+}
