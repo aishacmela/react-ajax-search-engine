@@ -1,12 +1,13 @@
-import Weather from "./Weather";
+import Temperature from "./Temperature";
+import City from "./City";
 import Links from './Links';
 import './App.css';
 
 function App() {
   return (
     <div className="App">
-      <h1>AJAX SEARCH ENGINE</h1>
-      <Weather />
+      <City />
+      <Temperature />
       <Links />
     </div>
   );
