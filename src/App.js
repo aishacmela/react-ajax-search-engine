@@ -1,4 +1,5 @@
 import Weather from "./Weather";
+import Links from './Links';
 import './App.css';
 
 function App() {
@@ -6,6 +7,7 @@ function App() {
     <div className="App">
       <h1>AJAX SEARCH ENGINE</h1>
       <Weather />
+      <Links />
     </div>
   );
 }
