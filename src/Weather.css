@@ -1,10 +1,10 @@
-.City li {
+li {
     list-style: none;
     font-size: 18px;
     font-weight: 300;
 }
 
-.City ul {
+ul {
     padding-left: 0;
 }
 
@@ -28,4 +28,31 @@
     background: #5585b5;
     width: 150px;
     margin-left: 10px;
+}
+
+
+.Temperature .temperature-value {
+    font-size: 60px;
+    padding-left: 10px;
+}
+
+.temperature-units {
+    position: relative;
+    font-size: 16px;
+    top: -30px;
+}
+
+.Temperature li {
+    list-style: none;
+    font-size: 18px;
+    font-weight: 300;
+}
+
+.Temperature img {
+    position: relative;
+    top: -15px;
+    width: 60px;
+}
+.Temperature img {
+    width: 100px;
 }

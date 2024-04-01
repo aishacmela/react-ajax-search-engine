@@ -1,9 +1,9 @@
 .App {
-  max-width: 800px;
+  max-width: 600px;
   margin: 60px auto;
   display: block;
   padding: 50px;
-  background-color: #f8f8f8;
+  background: linear-gradient(to bottom, #fff1eb 0%, #ace0f9 100%);;
   border-radius: 10px;
   box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
  

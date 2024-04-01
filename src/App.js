@@ -1,13 +1,11 @@
-import Temperature from "./Temperature";
-import City from "./City";
+import Weather from "./Weather";
 import Links from './Links';
 import './App.css';
 
 function App() {
   return (
     <div className="App">
-      <City />
-      <Temperature />
+      <Weather />
       <Links />
     </div>
   );
